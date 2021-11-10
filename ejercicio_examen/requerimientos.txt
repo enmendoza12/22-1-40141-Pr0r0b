@@ -1,0 +1,11 @@
+Python + Java
+
+
+Class: Course
+
+- constructor
+- 3 attributes + 3 properties (6 atributos)
+- 3 methods NO parameters
+- 3 methods WITH parameters (2)
+
+Create a classs with same structure but with my own selected name
