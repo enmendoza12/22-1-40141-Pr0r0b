@@ -2,7 +2,11 @@ class Course:
     name = "Object Oriented Programming"
     classroom = 5202
     
+<<<<<<< HEAD
     def __init__(self, name,hour, teacher,classroom):
+=======
+    def __init__(self, name, hour, teacher,classroom):
+>>>>>>> de322880a00d083ce60418f29a83aabf8b05d5c2
         self.name = name
         self.hour = hour
         self.teacher = teacher

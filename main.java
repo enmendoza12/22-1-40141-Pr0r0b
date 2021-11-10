@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> de322880a00d083ce60418f29a83aabf8b05d5c2
 public class Main {
 	
     public static void Main(String[] args) {
